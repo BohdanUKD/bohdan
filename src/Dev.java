@@ -3,6 +3,7 @@ public class Dev {
         int a = 5;
         int b = 10;
         System.out.println(devide(a, b));
+        System.out.println("fkkfff");
     }
 
     public static String devide(int a, int b){
